@@ -2,5 +2,6 @@
 data/complaints20_25_original.csv
 data/violations20_25_original.csv
 data/contacts_original.csv
+data/registrations_original.csv
 #visualizations
 data/visualizations
